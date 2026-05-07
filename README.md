@@ -11,4 +11,8 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
