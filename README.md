@@ -32,4 +32,12 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
