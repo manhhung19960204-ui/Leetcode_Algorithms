@@ -8,6 +8,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | ------- |
 | [0001-two-sum](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | ------- |
 | [0009-palindrome-number](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
