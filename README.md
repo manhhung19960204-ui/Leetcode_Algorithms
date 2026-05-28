@@ -9,6 +9,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0001-two-sum](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -47,4 +48,8 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
