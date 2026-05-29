@@ -28,6 +28,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0013-roman-to-integer](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
