@@ -31,6 +31,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0013-roman-to-integer](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0067-add-binary) |
 ## Trie
@@ -55,6 +56,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,4 +70,8 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0067-add-binary) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
