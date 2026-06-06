@@ -26,6 +26,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0066-plus-one](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -78,4 +79,12 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
