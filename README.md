@@ -11,6 +11,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0027-remove-element](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | ------- |
 | [0027-remove-element](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
@@ -87,4 +89,8 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
