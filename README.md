@@ -12,6 +12,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0035-search-insert-position](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0088-merge-sorted-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0067-add-binary) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Trie
 |  |
 | ------- |
