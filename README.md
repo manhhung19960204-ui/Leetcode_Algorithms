@@ -12,6 +12,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0035-search-insert-position](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0088-merge-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
