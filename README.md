@@ -18,6 +18,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0383-ransom-note) |
@@ -35,6 +36,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0020-valid-parentheses) |
@@ -108,4 +110,8 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0383-ransom-note) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
