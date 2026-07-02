@@ -40,6 +40,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0020-valid-parentheses) |
@@ -70,6 +71,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
@@ -101,6 +103,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
