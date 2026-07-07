@@ -61,6 +61,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0225-implement-stack-using-queues) |
 ## Linked List
 |  |
 | ------- |
@@ -129,4 +130,12 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
