@@ -62,6 +62,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
 | ------- |
@@ -134,8 +135,10 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
