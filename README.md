@@ -52,6 +52,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0383-ransom-note](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0657-robot-return-to-origin) |
+| [1544-make-the-string-great](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Trie
 |  |
@@ -63,6 +64,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0020-valid-parentheses](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [1544-make-the-string-great](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/1544-make-the-string-great) |
 ## Linked List
 |  |
 | ------- |
