@@ -15,6 +15,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0066-plus-one](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
@@ -64,6 +65,7 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | [0020-valid-parentheses](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0739-daily-temperatures) |
 | [1544-make-the-string-great](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/1544-make-the-string-great) |
 ## Linked List
 |  |
@@ -143,4 +145,8 @@ Pracetice LeetCode solutions focused on algorithms, data structures, and problem
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/manhhung19960204-ui/Leetcode_Algorithms/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
